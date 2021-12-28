@@ -1,3 +1,7 @@
+body {
+  background-color: #FFF1BD;
+}
+
 .app{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   display: flex;
@@ -19,7 +23,7 @@
 }
 
 .question-box {
-  background-color: antiquewhite;
+  background-color: #F3C892;
   padding: 10px;
   border-radius: 20px;
   margin: 10px;
@@ -40,7 +44,7 @@ button {
   padding: 8px;
   border-radius: 5px;
   border: none;
-  background-color: darkcyan;
+  background-color: #146356;
   color: white;
 }
 
@@ -54,6 +58,6 @@ select {
   padding: 8px;
   border-radius: 5px;
   border: none;
-  background-color: darkcyan;
+  background-color: #146356;
   color: white;
 }
